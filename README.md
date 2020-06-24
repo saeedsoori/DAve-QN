@@ -1,4 +1,4 @@
-# The link to GitHub repo:
+# link to GitHub repo:
 
 [DAve-QN](https://github.com/DAve-QN/source)
 
